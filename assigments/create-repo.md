@@ -58,3 +58,4 @@ Y listo con estos pasos hemos creado nuestro primer repositorio :3 , deberia ver
 
 5. Ahora como ultimo paso sincronizamos nuestros cambios y ya deberia aparecer todo nuestro codigo en el repositorio.
 
+    ![sync](../assets/git-xiii.PNG)
