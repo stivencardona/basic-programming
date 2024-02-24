@@ -7,4 +7,5 @@ Tomando como referencia el codigo visto en nuestra clase #5, usted debera resolv
 esta dada por a * b
 
 ## NOTA:
-Recuerde que debe seguir la receta de pasos y usar casos de prueba que validen el comportamiento de su funcion
+Recuerde que debe seguir la receta de pasos y usar casos de prueba que validen el comportamiento de su funcion, para ver condigos de ejemplo
+puede digirse al link de la carpeta con el codigo de la clase 5 [aqui](https://github.com/stivencardona/basic-programming/tree/main/clases/class-v) y revisar los archivos `age.py` y `distance.py`
