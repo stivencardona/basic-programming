@@ -47,3 +47,6 @@ sample_list = ['0', '0', '0', '0','0', '0', '0', '0', '0', '0', '0', '0']
 
 print(what_i_do(sample_list))
 ```
+
+## NOTA
+Recuerde que puede acceder al excel de la clase en el siguiente [link](https://docs.google.com/spreadsheets/d/1qUQllZLedjlD_1Kgyo74sHySd4FldeW3xDTq3EM_sLo), y el codigo de la clase [aqui](https://github.com/stivencardona/basic-programming/tree/main/clases/class-vi), para que los tome como ejemplos.
