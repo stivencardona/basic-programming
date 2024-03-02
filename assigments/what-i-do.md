@@ -1,7 +1,7 @@
 # QUE HAGO YO?
 
-En los siguientes ejercicios usted debera hacer una tabla en excel o cualquier otra herramienta que prefiera y hacerle
-seguimiento a las variables de las siguientes funciones, con el proposito de entender que hace cada funcion
+En los siguientes ejercicios usted debera crear una tabla en excel o cualquier otra herramienta que prefiera y hacerle
+seguimiento a las variables de las funciones que se muestran en cada problema, con el proposito de entender que hace cada de ellas
 
 
 1. Problema 1
@@ -18,7 +18,7 @@ print(what_i_do(12))
 ```
 
 Para iniciar simplemente tome este codigo y ejecutelo, despues cree su tabla y haga el paso a paso del ciclo for como
-se hizo en clase
+se hizo en clase, repita este proceso con los demas problemas
 
 2. Problema 2
 
