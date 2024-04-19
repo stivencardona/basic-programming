@@ -61,6 +61,7 @@ To create a new database and grant a user the necessary permissions in a databas
    - Execute the following SQL command to grant privileges to the user over the database:
      ```sql
      GRANT ALL PRIVILEGES ON DATABASE database_name TO username;
+     GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO username; --after use database_name if have problems to create tables
      ```
 
 5. **Exit**:
